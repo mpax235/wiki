@@ -13,6 +13,6 @@
 </div>
 <ul>
     <li>
-        Go <a href="wiki/Special/AllPages.html">here</a> for all pages.
+        Go <a href="Special/AllPages.html">here</a> for all pages.
     </li>
 <ul>
