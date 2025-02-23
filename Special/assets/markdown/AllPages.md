@@ -3,13 +3,13 @@
 <div class="allpages-body">
     <ul class="allpages-chunk">
         <li>
-            <a href="Main_Page.html">Main Page</a>
+            <a href="../Main_Page.html">Main Page</a>
         </li>
         <li class="allpagesredirect">
-            <a href="pages/mpax235.html">mpax235</a>
+            <a href="../pages/mpax235.html">mpax235</a>
         </li>
         <li>
-            <a href="pages/The_mpax235_Website.html">The mpax235 Website</a>
+            <a href="../pages/The_mpax235_Website.html">The mpax235 Website</a>
         </li>
     </ul>
 </div>
