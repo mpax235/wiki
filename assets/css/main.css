@@ -18,6 +18,12 @@
     font-family: 'Montserrat', sans-serif !important;
 }
 
+#content {
+    line-height: 1.6;
+    font-size: 0.875rem;
+    font-size: calc(1em * 0.875);
+}
+
 /* CLASSES */
 
 .container {
@@ -214,8 +220,38 @@
     padding: 0 0.5em;
 }
 
-#content {
-    line-height: 1.6;
-    font-size: 0.875rem;
-    font-size: calc(1em * 0.875);
+.homepage {
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+}
+
+.allpages-body, .prefixindex-body {
+    columns: 22em 3;
+    -moz-columns: 22em 3;
+    -webkit-columns: 22em 3;
+    break-inside: avoid-column;
+    page-break-inside: avoid;
+    -webkit-column-break-inside: avoid;
+}
+
+.allpages-chunk, .prefixindex-list {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.allpages-body li, .prefixindex-body li {
+    break-inside: avoid;
+}
+
+.wikipediauserbox {
+    border-radius: 12px;
+    border-color: rgba(0,255,255,0.18) !important;
+    background-color: #0016165e;
+    backdrop-filter: blur(7px);
+}
+
+.wikipediauserbox td {
+    padding: 10px !important;
+    color: #00ffff !important;
 }
