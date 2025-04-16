@@ -2,6 +2,8 @@ body {
     margin: 0;
     padding: 0;
     border-bottom: 1px solid rgba(0, 255, 255, 0.18);
+    border-bottom-left-radius: 12px;
+    border-bottom-right-radius: 12px;
 }
 
 .header {
@@ -9,6 +11,8 @@ body {
     align-items: center;
     background-color: #1111115e;
     backdrop-filter: blur(7px);
+    border-bottom-left-radius: 12px;
+    border-bottom-right-radius: 12px;
 }
 
 #logo {

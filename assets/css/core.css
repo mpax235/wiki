@@ -92,6 +92,7 @@ button:hover {
     background-color: #00ffff5e;
     transform: scale(1.05);
     color: #000000;
+    cursor: pointer;
 }
 
 input {
