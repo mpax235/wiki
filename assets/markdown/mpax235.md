@@ -16,7 +16,7 @@
         </tr>
         <tr>
             <th scope="row" class="infobox-label">Active</th>
-            <td class="infobox-data">December 14th, 2019 - present</td>
+            <td class="infobox-data">October 27th, 2018 - present</td>
         </tr>
         <tr>
             <th scope="row" class="infobox-label">Nickname(s)</th>
