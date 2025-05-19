@@ -40,7 +40,7 @@ The mpax235 Website is a website created by mpax235. It was first created on Jul
         <tr>
             <th scope="row" class="infobox-label">Repository</th>
             <td class="infobox-data">
-                <a rel="nofollow" class="external text" href="https://github.com/mpax235/mpax235.github.io">mpax235/mpax235.github.io</a>
+                <a rel="nofollow" class="external text" href="https://github.com/mpax235/mpax235.freakybob.site">mpax235/mpax235.freakybob.site</a>
             </td>
         </tr>
         <tr>

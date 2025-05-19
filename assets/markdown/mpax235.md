@@ -25,7 +25,7 @@
         <tr>
             <th scope="row" class="infobox-label">Website</th>
             <td class="infobox-data">
-                <a rel="nofollow" class="external text" href="https://mpax235.github.io">mpax235.github.io</a>
+                <a rel="nofollow" class="external text" href="https://mpax235.freakybob.site">mpax235.freakybob.site</a>
             </td>
         </tr>
         <tr>
